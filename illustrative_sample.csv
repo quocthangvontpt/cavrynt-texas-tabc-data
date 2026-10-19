@@ -1,0 +1,3 @@
+﻿entity_legal_name,dba_trade_name,premises_street_address,premises_city,premises_zip_code,county_name,metro_area,filing_date,source_status,permit_type,source_dataset,source_url,source_record_id,source_record_ids,application_count_at_premises
+Fictional Sample Company LLC,Sample Coffee House,100 Example Avenue,Austin,78701,Travis County,Austin Metro,2026-10-18,Received,TABC pending original application / SAMPLE,tabc_pending,https://data.texas.gov/d/mxm5-tdpj,SAMPLE-001,SAMPLE-001,1
+Illustrative Hospitality Group LLC,Demo Market,200 Placeholder Street,Houston,,Harris County,Houston Metro,2026-10-17,Pending,TABC pending original application / SAMPLE,tabc_pending,https://data.texas.gov/d/mxm5-tdpj,SAMPLE-002,SAMPLE-002,1
